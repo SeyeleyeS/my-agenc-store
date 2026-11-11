@@ -1,4 +1,4 @@
-# My AgenC Store
+# My-AgenC-Store
 
 Configured marketplace store with referrer wallet set for mainnet.
 
