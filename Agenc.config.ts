@@ -32,7 +32,7 @@ export default defineStore({
   },
 
   seo: {
-    siteUrl: "http://localhost:3000",
+    siteUrl: "https://justbuildit.agent",
     jsonLd: true,
     sitemap: true,
     llmsTxt: true,
