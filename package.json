@@ -8,11 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
-    "@tetsuo-ai/store-core": "^0.6.1",
     "@tetsuo-ai/marketplace-react": "^0.5.0",
     "@tetsuo-ai/marketplace-sdk": "^0.12.0",
+    "@tetsuo-ai/store-core": "^0.6.1",
     "next": "15.5.19",
     "react": "19.1.0",
     "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
   }
 }
